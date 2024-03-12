@@ -1,0 +1,33 @@
+[
+    {
+      "watch_id": "SW001",
+      "name": "SmartPro 2000",
+      "price": 199.99,
+      "color": "Black"
+    },
+    {
+      "watch_id": "SW002",
+      "name": "FitTech Plus",
+      "price": 149.99,
+      "color": "Silver"
+    },
+    {
+      "watch_id": "SW003",
+      "name": "VitalTrack Pro",
+      "price": 219.99,
+      "color": "Blue"
+    },
+    {
+      "watch_id": "SW004",
+      "name": "SmartLink X",
+      "price": 179.99,
+      "color": "Rose Gold"
+    },
+    {
+      "watch_id": "SW005",
+      "name": "Adventure Pro",
+      "price": 249.99,
+      "color": "Green"
+    }
+  ]
+  
